@@ -1,1 +1,7 @@
-
+{
+  "ID" : "TC-01",
+  "Summary" : "Beverage View", 
+  "Precondition" : "Launch Drinkables App", 
+  "Steps" : "Select the desired drink from the list and click on it",
+  "Expected Result" : "The card of the selected drink is opened"
+}
